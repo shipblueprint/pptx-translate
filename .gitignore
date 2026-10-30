@@ -1,0 +1,6 @@
+.env
+*.pptx
+!Pitch-Deck_backup.pptx
+__pycache__/
+*.pyc
+.DS_Store
