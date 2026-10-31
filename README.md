@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![GitHub release](https://img.shields.io/github/v/release/shipblueprint/pptx-translate)
+
 # PPTX Translate
 
 Translate PowerPoint (.pptx) files while preserving layout. Supports multiple providers (see PDF for quotas/limits).
